@@ -1,1 +1,1 @@
-# Data_Scientist_Maas_Analizi_ve_Tahmini
+# Data Scientist Maaş Analizi ve Tahmini
